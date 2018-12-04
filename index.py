@@ -332,30 +332,3 @@ error['RMSE_ME'] = error.RMSE_ME**2
 error['RMSE_ME'] = sum(error.RMSE_ME)/11
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-      "3) upload github
-        
-" test by period"
-" predict investment with uncertainty "
-" did you understand the topic? did you make enough research? are results competent?"
-" show other lagged correlations "
-
-" clarify correlation over timeline " 
-" plot investment and frequency share " 
-" uncertainty is input, output is investment? "
-
-" which investment variables have biggest impact on uncertainty? most significant?"
-
-
